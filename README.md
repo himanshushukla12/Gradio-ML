@@ -1,7 +1,3 @@
-Sure, here's the updated `README.md` with the image links included:
-
----
-
 # Gradio Mini-Projects
 
 This repository contains all the projects built using Gradio.
